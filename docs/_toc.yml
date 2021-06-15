@@ -4,7 +4,6 @@
 format: jb-book  # Tells Jupyter Book what kind of structure to expect
 root: index # A path to the *root page* (landing page) of your book
 parts:
-- caption: 案例
+- caption: 基础
   chapters:
-  - file: markdown
-  - file: notebooks
+  - file: reference
