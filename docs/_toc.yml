@@ -6,4 +6,17 @@ root: index # A path to the *root page* (landing page) of your book
 parts:
 - caption: 基础
   chapters:
+  - file: 
   - file: reference
+
+format: jb-book  # Tells Jupyter Book what kind of structure to expect
+root: index # A path to the *root page* (landing page) of your book
+parts:
+- caption: 微积分
+  chapters:
+  - file: differential-calculus/index
+    sections:
+      - file: differential-calculus/grad
+- caption: 资源
+  chapters:
+  - file: reference/index
