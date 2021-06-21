@@ -2,13 +2,11 @@ numpy
 pandas
 matplotlib
 ipywidgets
-# nbclient
+nbclient
 jupyter-book
 ghp-import
 sphinx_inline_tabs
-# sphinx
-# sphinx-click
-# sphinx_inline_tabs
+sphinx-click
 # sphinxext-rediraffe
 # sympy
 # jupyter-dash
